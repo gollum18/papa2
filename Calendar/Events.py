@@ -17,7 +17,7 @@ skill development and Python tutelage.
 """
 import json
 import time
-PATH = "/Your/Path/To/Calendar.json"
+PATH = "~/papa/Calendar/Calendar.json"
 
 # (Probably bad) way to grab the number of json objects
 # For upstream __init__ logic
